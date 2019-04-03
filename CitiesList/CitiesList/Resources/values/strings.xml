@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CitiesList</string>
+    <string name="action_settings">Settings</string>
+  <string-array name="countries_arr">
+    <item>Afghanistan</item>
+    <item>Cameroon</item>
+    <item>China</item>
+    <item>Southern</item>
+    <item>Falkland</item>
+    <item>Guadeloupe</item>
+    <item>Madagascar</item>
+    <item>Niue</item>
+    <item>Nauru</item>
+    <item>Switzerland</item>
+    <item>Singapore</item>
+    <item>Colombia</item>
+    <item>Zambia</item>
+    <item>Canada</item>
+    <item>Brazil</item>
+    <item>Bolivia</item>
+    <item>Example</item>
+    <item>Example</item>
+    <item>Example</item>
+    <item>Example</item>
+    <item>Example</item>
+    <item>Example</item>
+  </string-array>
+</resources>
